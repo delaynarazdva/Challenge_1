@@ -41,8 +41,10 @@ In U.S. News' ratings of personal loan lenders, Upgrade received 4.1 out of 5 st
 Drawbacks:
 According to Better Business Bureau, "Upgrade has recently been made aware that its name and logo has been fraudulently used by individuals operating loan scams"
 Upgrade charges an origination fee on all loans 
-Co-sighnes are not accepted
+Co-sighnes are not accepted!!!
 
+
+333
 
 
 
