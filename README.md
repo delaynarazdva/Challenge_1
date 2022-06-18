@@ -1,5 +1,4 @@
 # Challenge_1
-# Challenge_1
 ### About the company
 Upgrade Makes it Easy to Take Loans
 
