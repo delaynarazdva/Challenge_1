@@ -10,6 +10,7 @@ Upggare has announced a $280 million funding at a $6 billion pre-money valuation
 
 ### Business activities
 To apply for an Upgrade loan, fill in the requested loan amount and the purpose of the loan. Once you provide some personal information, such as name, date of birth and earnings, Upgrade will do a soft credit check and provide the loan offers for which you qualify. 
+
 Once the client is approved, Upgrade sends funds to your bank or designated account within one business day, and availability of funds depends on how quickly your bank processes the transaction. The time from when your Upgrade personal loan is approved to when you can access the money should be no more than four business days.
 
 Upgrade's personal loans are best for: 
@@ -28,6 +29,7 @@ Instantaneous fund availability for a cllient
 Upgrade Inc domains: Wealth Management, Personal finance/Deposits/Online Banking, Lending
 
 Wealthtech: the future of wealth management: According to Getsmarter.com, "Fintech enables wealth managers to improve their service, giving rise to an entirely new skill set: wealthtech. Often driven by artificial intelligence (AI) and machine learning (ML), wealthtech leverages complex algorithms to advise clients on the best investment or savings plans, with minimal human intervention"
+
 The surge in investment in fintech has cascaded into investment in financial technologies. In 2020, global spending on fintech reached $121.5 billion. This is a marked increase from the 2015 global spend of $20 billion.
 
 Other major companies in the same domain are:
@@ -43,8 +45,8 @@ According to Better Business Bureau, "Upgrade has recently been made aware that 
 Upgrade charges an origination fee on all loans 
 Co-sighnes are not accepted!!!
 
+Overall, I think offering instant loans without having the client wait for a long time will increase the demand for this product. 
 
-fhdfcc
 
 
 
